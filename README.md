@@ -1,6 +1,4 @@
-Here’s a **README** tailored exactly to your project structure (pure HTML, CSS, JS):
 
-````markdown
 # Factory Pro – Smart Factory Management Website
 
 Factory Pro is a modern, responsive factory management website designed to showcase services, pricing plans, projects, and content in a clean and professional interface. The project focuses on simplicity, structured navigation, and a user-friendly layout suitable for industrial or corporate environments.
@@ -38,7 +36,7 @@ This is a static website, so no build tools are required.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/factory-pro.git
-````
+
 
 2. Open the project folder:
 
@@ -50,8 +48,7 @@ This is a static website, so no build tools are required.
    Or use a live server extension in VS Code.
 
 ---
-
-## 📂 File Structure
+📂 File Structure
 
 ```
 factory-pro/
@@ -76,7 +73,8 @@ factory-pro/
 
 ---
 
-## 🎯 Project Goal
+
+🎯 Project Goal
 
 The goal of this project was to:
 
@@ -87,21 +85,14 @@ The goal of this project was to:
 
 ---
 
-## 🤝 Contributing
+ 🤝 Contributing
 
 Contributions, issues, and feature suggestions are welcome.
 Feel free to fork the repository and submit a pull request.
 
----
 
-## 📄 License
+
+ 📄 License
 
 This project is open-source and available under the **MIT License**.
 
-```
-
-If you want, I can also:
-- Add **screenshots** to the README
-- Create a **portfolio-optimized version**
-- Add **GitHub badges** to make the repo look more professional.
-```
